@@ -1,0 +1,22 @@
+{
+  "name": "karma-jasmine-spy-helpers",
+  "description": "A Karma plugin that injects jasmine-spy-helpers for the Jasmine BDD JavaScript testing library.",
+  "version": "3.0.0",
+  "author": "Geoff Dutton (g.dutton@gmail.com)",
+  "bugs": "https://github.com/geoffdutton/karma-jasmine-spy-helpers/issues",
+  "dependencies": {
+    "jasmine-spy-helpers": "3.0.0"
+  },
+  "homepage": "https://github.com/geoffdutton/karma-jasmine-spy-helpers",
+  "keywords": [
+    "BDD",
+    "TDD",
+    "jasmine",
+    "jasmine-spies",
+    "karma-adapter",
+    "karma-plugin",
+    "testing"
+  ],
+  "license": "MIT",
+  "main": "index.js"
+}
