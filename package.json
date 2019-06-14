@@ -5,7 +5,7 @@
   "author": "Geoff Dutton (g.dutton@gmail.com)",
   "bugs": "https://github.com/geoffdutton/karma-jasmine-spy-helpers/issues",
   "dependencies": {
-    "jasmine-spy-helpers": "3.0.0"
+    "jasmine-spy-helpers": "^3.0.1"
   },
   "homepage": "https://github.com/geoffdutton/karma-jasmine-spy-helpers",
   "keywords": [

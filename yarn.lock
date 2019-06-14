@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-jasmine-spy-helpers@3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/jasmine-spy-helpers/-/jasmine-spy-helpers-3.0.0.tgz#19abf6a17585631710feed4731b1f9f94a661f37"
-  integrity sha512-3EbAiGXTAzND19INlhQcKecYkTyTAbjmciBRZUZnJ0MqPBiy0ilKglEaHq4yfpkPIvp/2e8yvWKLBcjJhzHbhg==
+jasmine-spy-helpers@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/jasmine-spy-helpers/-/jasmine-spy-helpers-3.0.1.tgz#7eb9ed89c26d15003a4231e6f58f536997f0c342"
+  integrity sha512-nBLe9QLCIZm/7ZLt3TcUDrPr7aTDFGD5Cz+BVBddXoGuIZBT0CgLGuZHi5iME2sMZwTWZot8Gg1C9iEvyLfaAQ==
