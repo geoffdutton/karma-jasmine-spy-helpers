@@ -1,5 +1,5 @@
 # karma-jasmine-spy-helpers
-[![NPM version](http://img.shields.io/npm/v/karma-jasmine-spy-helpers.svg?style=flat-square)](https://www.npmjs.com/package/karma-jasmine-spy-helpers)
+[![NPM version](http://img.shields.io/npm/v/karma-jasmine-spy-helpers.svg?style=flat-square)](https://www.npmjs.com/package/karma-jasmine-spy-helpers) [![Greenkeeper badge](https://badges.greenkeeper.io/geoffdutton/karma-jasmine-spy-helpers.svg)](https://greenkeeper.io/)
 
 A [Karma](http://karma-runner.github.io/) plugin to inject [jasmine-spy-helpers](https://github.com/geoffdutton/jasmine-spy-helpers) for [Jasmine](http://jasmine.github.io/).
 
